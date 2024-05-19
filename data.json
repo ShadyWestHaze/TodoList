@@ -1,0 +1,526 @@
+{
+  "Tasks": [
+    {
+      "id": "1a",
+      "name": "Organize closet",
+      "description": "Sort out clothes and declutter closet space.",
+      "priority": "Low",
+      "dueDate": "2024-05-10T21:00:00.000Z",
+      "category": "Personal",
+      "status": "in-progress"
+    },
+    {
+      "name": "Read a book",
+      "description": "Spend at least 30 minutes reading a book.",
+      "priority": "Low",
+      "dueDate": "2024-05-12T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "2s"
+    },
+    {
+      "name": "Go for a walk",
+      "description": "Take a leisurely walk in the park",
+      "priority": "High",
+      "dueDate": "2024-05-15T21:00:00.000Z",
+      "category": "Personal",
+      "status": "in-progress",
+      "id": "3d"
+    },
+    {
+      "id": "4f",
+      "name": "Plan weekend activities",
+      "description": "Research and plan fun activities for the weekend.",
+      "priority": "Medium",
+      "dueDate": "2024-05-16T21:00:00.000Z",
+      "category": "Personal",
+      "status": "in-progress"
+    },
+    {
+      "id": "5g",
+      "name": "Cook a new recipe",
+      "description": "Try cooking a new dish for dinner.",
+      "priority": "Medium",
+      "dueDate": "2024-05-18T21:00:00.000Z",
+      "category": "Personal",
+      "status": "in-progress"
+    },
+    {
+      "name": "Exercise",
+      "description": "Do a workout session for at least 45 minutes.",
+      "priority": "Medium",
+      "dueDate": "2024-05-20T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "6r"
+    },
+    {
+      "name": "Plan vacation",
+      "description": "Research and plan for an upcoming vacation.",
+      "priority": "High",
+      "dueDate": "2024-05-22T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "7s"
+    },
+    {
+      "name": "Update personal budget",
+      "description": "Review and update monthly budget.",
+      "priority": "High",
+      "dueDate": "2024-05-24T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "8a"
+    },
+    {
+      "name": "Practice a hobby",
+      "description": "Spend time practicing a hobby or learn a new one.",
+      "priority": "High",
+      "dueDate": "2024-05-26T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "9d"
+    },
+    {
+      "name": "Reflect on personal goals",
+      "description": "Take time to reflect on personal goals and progress.",
+      "priority": "High",
+      "dueDate": "2024-05-28T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "10g"
+    },
+    {
+      "name": "Organize closet",
+      "description": "Sort out clothes and declutter closet space.",
+      "priority": "Low",
+      "dueDate": "2024-05-10T21:00:00.000Z",
+      "category": "Home",
+      "status": "completed",
+      "id": "1"
+    },
+    {
+      "name": "Read a book",
+      "description": "Spend at least 30 minutes reading a book.",
+      "priority": "Low",
+      "dueDate": "2024-05-12T21:00:00.000Z",
+      "category": "Personal",
+      "status": "completed",
+      "id": "2"
+    },
+    {
+      "name": "Go for a walk",
+      "description": "Take a leisurely walk in the park.",
+      "priority": "Low",
+      "dueDate": "2024-05-14T21:00:00.000Z",
+      "category": "Health",
+      "status": "completed",
+      "id": "3"
+    },
+    {
+      "name": "Plan weekend activities",
+      "description": "Research and plan fun activities for the weekend.",
+      "priority": "Medium",
+      "dueDate": "2024-05-16T21:00:00.000Z",
+      "category": "Social",
+      "status": "completed",
+      "id": "4"
+    },
+    {
+      "name": "Cook a new recipe",
+      "description": "Try cooking a new dish for dinner.",
+      "priority": "Medium",
+      "dueDate": "2024-05-18T21:00:00.000Z",
+      "category": "Food",
+      "status": "completed",
+      "id": "5"
+    },
+    {
+      "name": "Exercise",
+      "description": "Do a workout session for at least 45 minutes.",
+      "priority": "Medium",
+      "dueDate": "2024-05-20T21:00:00.000Z",
+      "category": "Fitness",
+      "status": "completed",
+      "id": "6"
+    },
+    {
+      "name": "Plan vacation",
+      "description": "Research and plan for an upcoming vacation.",
+      "priority": "High",
+      "dueDate": "2024-05-22T21:00:00.000Z",
+      "category": "Travel",
+      "status": "completed",
+      "id": "7"
+    },
+    {
+      "name": "Update personal budget",
+      "description": "Review and update monthly budget.",
+      "priority": "High",
+      "dueDate": "2024-05-24T21:00:00.000Z",
+      "category": "Finance",
+      "status": "completed",
+      "id": "8"
+    },
+    {
+      "name": "Practice a hobby",
+      "description": "Spend time practicing a hobby or learn a new one.",
+      "priority": "High",
+      "dueDate": "2024-05-26T21:00:00.000Z",
+      "category": "Hobbies",
+      "status": "abandoned",
+      "id": "9"
+    },
+    {
+      "name": "Reflect on personal goals",
+      "description": "Take time to reflect on personal goals and progress.",
+      "priority": "High",
+      "dueDate": "2024-05-28T21:00:00.000Z",
+      "category": "Goals",
+      "status": "abandoned",
+      "id": "10"
+    },
+    {
+      "name": "Attend meeting",
+      "description": "Attend the weekly team meeting.",
+      "priority": "Low",
+      "dueDate": "2024-05-30T21:00:00.000Z",
+      "category": "Work",
+      "status": "abandoned",
+      "id": "11"
+    },
+    {
+      "name": "Call family member",
+      "description": "Catch up with a family member over the phone.",
+      "priority": "Low",
+      "dueDate": "2024-06-01T21:00:00.000Z",
+      "category": "Family",
+      "status": "abandoned",
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "name": "Buy groceries",
+      "description": "Purchase groceries for the week.",
+      "priority": "Low",
+      "dueDate": "2024-06-03T21:00:00.000Z",
+      "category": "Shopping",
+      "status": "in-progress"
+    },
+    {
+      "id": "14",
+      "name": "Attend school event",
+      "description": "Attend the school's annual sports day event.",
+      "priority": "Medium",
+      "dueDate": "2024-06-05T21:00:00.000Z",
+      "category": "School",
+      "status": "in-progress"
+    },
+    {
+      "name": "Clean house",
+      "description": "Deep clean the house.",
+      "priority": "Medium",
+      "dueDate": "2024-06-07T21:00:00.000Z",
+      "category": "Cleaning",
+      "status": "completed",
+      "id": "15"
+    },
+    {
+      "id": "16",
+      "name": "Attend doctor's appointment",
+      "description": "Visit the doctor for a routine check-up.",
+      "priority": "Medium",
+      "dueDate": "2024-06-09T21:00:00.000Z",
+      "category": "Health",
+      "status": "in-progress"
+    },
+    {
+      "id": "17",
+      "name": "Plan birthday party",
+      "description": "Plan a surprise birthday party for a friend.",
+      "priority": "High",
+      "dueDate": "2024-06-11T21:00:00.000Z",
+      "category": "Events",
+      "status": "in-progress"
+    },
+    {
+      "name": "Work on project",
+      "description": "Dedicate time to work on the ongoing project.",
+      "priority": "Low",
+      "dueDate": "2024-06-13T21:00:00.000Z",
+      "category": "Projects",
+      "status": "in-progress",
+      "id": "18"
+    },
+    {
+      "id": "19",
+      "name": "Schedule dentist appointment",
+      "description": "Book an appointment with the dentist for a check-up.",
+      "priority": "High",
+      "dueDate": "2024-06-15T21:00:00.000Z",
+      "category": "Appointments",
+      "status": "in-progress"
+    },
+    {
+      "id": "20",
+      "name": "Attend fitness class",
+      "description": "Join a fitness class at the local gym.",
+      "priority": "High",
+      "dueDate": "2024-06-17T21:00:00.000Z",
+      "category": "Fitness",
+      "status": "in-progress"
+    },
+    {
+      "id": "21",
+      "name": "Volunteer at local shelter",
+      "description": "Spend time volunteering at the homeless shelter.",
+      "priority": "Low",
+      "dueDate": "2024-06-19T21:00:00.000Z",
+      "category": "Volunteering",
+      "status": "in-progress"
+    },
+    {
+      "id": "22",
+      "name": "Attend networking event",
+      "description": "Participate in a networking event for professionals.",
+      "priority": "Low",
+      "dueDate": "2024-06-21T21:00:00.000Z",
+      "category": "Social",
+      "status": "in-progress"
+    },
+    {
+      "id": "23",
+      "name": "Create monthly budget",
+      "description": "Plan monthly expenses and savings.",
+      "priority": "Low",
+      "dueDate": "2024-06-23T21:00:00.000Z",
+      "category": "Finance",
+      "status": "in-progress"
+    },
+    {
+      "id": "24",
+      "name": "Attend family gathering",
+      "description": "Join the family for a weekend gathering.",
+      "priority": "Medium",
+      "dueDate": "2024-06-25T21:00:00.000Z",
+      "category": "Family",
+      "status": "in-progress"
+    },
+    {
+      "id": "25",
+      "name": "Plan vacation",
+      "description": "Research and plan for an upcoming vacation.",
+      "priority": "Medium",
+      "dueDate": "2024-06-27T21:00:00.000Z",
+      "category": "Travel",
+      "status": "in-progress"
+    },
+    {
+      "id": "26",
+      "name": "Attend online seminar",
+      "description": "Participate in an online seminar related to work.",
+      "priority": "Medium",
+      "dueDate": "2024-06-29T21:00:00.000Z",
+      "category": "Work",
+      "status": "in-progress"
+    },
+    {
+      "name": "Plan weekly meals",
+      "description": "Plan meals for the upcoming week.",
+      "priority": "High",
+      "dueDate": "2024-07-01T21:00:00.000Z",
+      "category": "Food",
+      "status": "completed",
+      "id": "27"
+    },
+    {
+      "id": "28",
+      "name": "Start a new hobby",
+      "description": "Begin learning a new hobby or skill.",
+      "priority": "High",
+      "dueDate": "2024-07-03T21:00:00.000Z",
+      "category": "Hobbies",
+      "status": "in-progress"
+    },
+    {
+      "id": "29",
+      "name": "Attend doctor's appointment",
+      "description": "Visit the doctor for a routine check-up.",
+      "priority": "High",
+      "dueDate": "2024-07-05T21:00:00.000Z",
+      "category": "Health",
+      "status": "in-progress"
+    },
+    {
+      "name": "Complete home improvement project",
+      "description": "Finish the ongoing home improvement project.",
+      "priority": "High",
+      "dueDate": "2024-07-07T21:00:00.000Z",
+      "category": "Home",
+      "status": "completed",
+      "id": "30"
+    },
+    {
+      "name": "Attend school meeting",
+      "description": "Attend the school's parent-teacher meeting.",
+      "priority": "Low",
+      "dueDate": "2024-05-16T21:00:00.000Z",
+      "category": "School",
+      "status": "in-progress",
+      "id": "31"
+    },
+    {
+      "name": "Go grocery shopping",
+      "description": "Purchase groceries for the week.",
+      "priority": "Low",
+      "dueDate": "2024-07-11T21:00:00.000Z",
+      "category": "Shopping",
+      "status": "abandoned",
+      "id": "32"
+    },
+    {
+      "name": "Attend social gathering",
+      "description": "Attend a social gathering with friends.",
+      "priority": "Low",
+      "dueDate": "2024-07-13T21:00:00.000Z",
+      "category": "Social",
+      "status": "abandoned",
+      "id": "33"
+    },
+    {
+      "name": "Review financial goals",
+      "description": "Review and adjust financial goals for the year.",
+      "priority": "Medium",
+      "dueDate": "2024-07-15T21:00:00.000Z",
+      "category": "Finance",
+      "status": "abandoned",
+      "id": "34"
+    },
+    {
+      "name": "Plan vacation itinerary",
+      "description": "Plan activities and attractions for the vacation.",
+      "priority": "Medium",
+      "dueDate": "2024-07-17T21:00:00.000Z",
+      "category": "Travel",
+      "status": "abandoned",
+      "id": "35"
+    },
+    {
+      "name": "Work on work-related project",
+      "description": "Dedicate time to work on a project related to work.",
+      "priority": "Medium",
+      "dueDate": "2024-07-19T21:00:00.000Z",
+      "category": "Work",
+      "status": "abandoned",
+      "id": "36"
+    },
+    {
+      "id": "37",
+      "name": "Plan weekly menu",
+      "description": "Plan meals for the upcoming week.",
+      "priority": "High",
+      "dueDate": "2024-07-21T21:00:00.000Z",
+      "category": "Food",
+      "status": "in-progress"
+    },
+    {
+      "id": "38",
+      "name": "Start learning a new language",
+      "description": "Begin learning a new language.",
+      "priority": "High",
+      "dueDate": "2024-07-23T21:00:00.000Z",
+      "category": "Study",
+      "status": "in-progress"
+    },
+    {
+      "name": "Attend fitness class",
+      "description": "Join a fitness class at the local gym.",
+      "priority": "High",
+      "dueDate": "2024-07-25T21:00:00.000Z",
+      "category": "Fitness",
+      "status": "completed",
+      "id": "39"
+    },
+    {
+      "name": "Volunteer at local charity event",
+      "description": "Spend time volunteering at a local charity event.",
+      "priority": "High",
+      "dueDate": "2024-07-27T21:00:00.000Z",
+      "category": "Volunteering",
+      "status": "in-progress",
+      "id": "40"
+    },
+    {
+      "id": "41",
+      "name": "Attend networking event",
+      "description": "Participate in a networking event for professionals.",
+      "priority": "Low",
+      "dueDate": "2024-07-29T21:00:00.000Z",
+      "category": "Social",
+      "status": "in-progress"
+    },
+    {
+      "id": "42",
+      "name": "Review monthly expenses",
+      "description": "Review and categorize monthly expenses.",
+      "priority": "Low",
+      "dueDate": "2024-07-31T21:00:00.000Z",
+      "category": "Finance",
+      "status": "in-progress"
+    },
+    {
+      "id": "43",
+      "name": "Attend family reunion",
+      "description": "Join the family for a reunion event.",
+      "priority": "Low",
+      "dueDate": "2024-08-02T21:00:00.000Z",
+      "category": "Family",
+      "status": "in-progress"
+    },
+    {
+      "id": "44",
+      "name": "Plan weekend getaway",
+      "description": "Plan a short weekend trip to a nearby destination.",
+      "priority": "Medium",
+      "dueDate": "2024-08-04T21:00:00.000Z",
+      "category": "Travel",
+      "status": "in-progress"
+    },
+    {
+      "id": "45",
+      "name": "Study for upcoming exam",
+      "description": "Dedicate time to study for the upcoming exam.",
+      "priority": "Medium",
+      "dueDate": "2024-08-06T21:00:00.000Z",
+      "category": "Study",
+      "status": "in-progress"
+    },
+    {
+      "id": "46",
+      "name": "Clean garage",
+      "description": "Organize and clean the garage space.",
+      "priority": "Medium",
+      "dueDate": "2024-08-08T21:00:00.000Z",
+      "category": "Cleaning",
+      "status": "in-progress"
+    },
+    {
+      "id": "48",
+      "name": "Work on personal project",
+      "description": "Dedicate time to work on a personal project.",
+      "priority": "High",
+      "dueDate": "2024-08-12T21:00:00.000Z",
+      "category": "Projects",
+      "status": "in-progress"
+    },
+    {
+      "id": "50",
+      "name": "Practice mindfulness meditation",
+      "description": "Spend 15 minutes practicing mindfulness meditation.",
+      "priority": "High",
+      "dueDate": "2024-08-16T21:00:00.000Z",
+      "category": "Self-care",
+      "status": "in-progress"
+    }
+  ]
+}
